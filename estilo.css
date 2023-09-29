@@ -1,0 +1,28 @@
+.cor-fundo{
+background-color: #DB7093; 
+width: 500px;
+height: 500px;
+}
+.cor-fundo2{
+    background-color: rgb(160,82,45); 
+    width:  250px;
+    height: 50%;
+    color:	#9370DB; 
+    background-color:	#FFA07A; 
+    font-size: 25px;
+    font-weight: bold;
+    font-family: monospace;
+}
+
+.faixa-1{
+    width: 50%; 
+    height: 50vh;
+    background-color:rgb(127,255,212);
+}
+
+
+.faixa-2{
+    width: 75vw; 
+    height: 50%;
+    background-color: rgb(255,228,181);
+}
